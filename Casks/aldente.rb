@@ -1,8 +1,8 @@
 cask "aldente" do
-  version "1.39.4"
-  sha256 "b2634ae47f5f860fa75f5be0a9ae89b136dbb514003800ed256873f437aa701b"
+  version "1.36"
+  sha256 "56d9ddebb3059e11e8118a6418c404287d2653bd634adaf86bbaaedfc9839426"
 
-  url "https://apphousekitchen.com/aldente/AlDente#{version}.dmg"
+  url "https://github.com/ivansaul/homebrew-tools/releases/download/aldente@#{version}/AlDente-#{version}.dmg"
   name "AlDente"
   desc "Menu bar tool to limit maximum charging percentage"
   homepage "https://apphousekitchen.com/"
